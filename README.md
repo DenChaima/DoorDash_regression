@@ -1,4 +1,4 @@
-# SS_DoorDash_regression
+# DoorDash_regression
 Build a model to predict the estimated time taken for a Doordash delivery.
 
 
